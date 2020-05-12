@@ -1,0 +1,19 @@
+①リモート接続ユーザーリスト（ID/PASS情報記載）
+　【CTC】_利用者一覧__開発環境リモート接続（AWS経由）_メンバーリスト_r5.xlsx
+
+②利用案内書
+　開発環境リモートアクセス利用案内書（開発パートナー向け）1.1版.pdf
+　別紙.client-vpn-user-guide.pdf
+
+③OpenVPN設定ファイル
+　downloaded-client-config.ovpn
+
+④クライアント証明書・秘密鍵
+　certフォルダ配下
+
+※IDの連番とクライアント証明書・秘密鍵の連番を合わせて配布してください。
+　　例）連番が9999の場合
+　　　unkaws9999@unk
+　　　client9999.domain.tld.crt
+　　　client9999.domain.tld.key
+　　　
